@@ -7,6 +7,8 @@ int main(void)
       printf("hello Chicago!\n");
 
       printf("in newbranch,change here!\n");
+      
+      printf("test git color!\n");
 
       return 0;
 }
